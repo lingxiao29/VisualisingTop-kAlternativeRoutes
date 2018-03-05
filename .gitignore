@@ -28,5 +28,5 @@ hs_err_pid*
 .idea/workspace.xml
 src/main/resources/
 src/test/
-/.idea/
 /pom.xml
+/.idea/
