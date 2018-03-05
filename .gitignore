@@ -27,3 +27,7 @@ hs_err_pid*
 /.gitignore
 /pom.xml
 /routeDemo.iml
+!/.gitignore
+.idea/workspace.xml
+src/main/resources/
+src/test/
